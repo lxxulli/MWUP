@@ -3,7 +3,7 @@ import { mainColors } from "../pages/style/GlobalStyled";
 
 const SErrorMessage = styled.div`
   color: ${mainColors.pointColor};
-  margin-bottom: 10px;
+  margin-bottom: 11px;
 `;
 
 export const ErrorMessage = ({ text }) => {
