@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MWUP/static/css/main.900c1a46.css",
+    "main.js": "/MWUP/static/js/main.f9915327.js",
+    "index.html": "/MWUP/index.html",
+    "main.900c1a46.css.map": "/MWUP/static/css/main.900c1a46.css.map",
+    "main.f9915327.js.map": "/MWUP/static/js/main.f9915327.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.900c1a46.css",
+    "static/js/main.f9915327.js"
+  ]
+}
